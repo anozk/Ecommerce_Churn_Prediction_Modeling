@@ -4,7 +4,7 @@
 
 ## Overview
 **Data:** [E-Commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction) — Kaggle  
-**Part 2 — MLOps & AWS Deployment:** [Ecommerce Churn Model Deployment on AWS](https://github.com/anozk/Part-2-ML-Model-Deployment-on-AWS-for-Customer-Churn-Prediction)
+**Part 2 — MLOps & AWS Deployment:** [Ecommerce Churn Model Deployment on AWS]([https://github.com/anozk/Part-2-ML-Model-Deployment-on-AWS-for-Customer-Churn-Prediction](https://github.com/anozk/Ecommerce_Churn_Prediction_Part2_MLOps_AWS_Deployment))
 
 **Keywords:** Imputation · Multicollinearity · Local Outlier Factor · Model Testing · Partial Dependence Plots · Ablation Study · Bootstrap Resampling · XGBoost · SHAP · Calibration
 
