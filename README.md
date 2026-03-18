@@ -75,4 +75,5 @@ Notably, the test precision of 0.69 falls outside the 95% confidence interval (L
 
 <img width="1233" height="701" alt="download (4)" src="https://github.com/user-attachments/assets/7dd2cfe2-5071-4216-88e6-28af79b0dda9" />
 
-
+## Acknowledgements
+Project inspired by [ProjectPro](https://www.projectpro.io). All modeling decisions, methodology, and analysis are original.
