@@ -1,5 +1,9 @@
 # E commerce churn prediction
 
+## Overview
+**Data:** [E-Commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction) — Kaggle  
+**Part 2 — MLOps & AWS Deployment:** [Ecommerce Churn Model Deployment on AWS](https://github.com/anozk/Part-2-ML-Model-Deployment-on-AWS-for-Customer-Churn-Prediction)
+
 # Business Case: 
 The E-commerce churn project classifies potential churners, meaning customers who want to leave the E-commerce website. The aim of the project is to test several machiene learning models and to select the most suitable to classify as many churners as possible. This gives the E-commerce company the possibility to identify potential churners before they leave by offering discount coupons for instance. 
 
