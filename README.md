@@ -21,6 +21,7 @@ Additionally, the data suggests the company should prioritize improving its supp
 # Methodology and approach: 
 
 ## Missing Values Imputation: 
+
 Applying linear models, such as Logistic Regression, to data with improperly handled missingness can lead to biased odds ratio (OR) estimates, directly skewing final probability predictions. With several numeric features missing 3% to 8% of their values and a lack of specific domain metadata, both simple and iterative imputation strategies were evaluated. Comparative analysis demonstrated that Iterative Imputation superiorly preserved original data distributions and feature correlations, providing a more robust foundation for the classification model than simple univariate methods.
 <img width="1482" height="983" alt="download" src="https://github.com/user-attachments/assets/0591e3db-abc8-4f0f-b2b3-1079ea9301b1" />
 
