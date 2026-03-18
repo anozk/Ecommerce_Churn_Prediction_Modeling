@@ -7,7 +7,7 @@
 **Keywords:** Imputation · Multicollinearity · Local Outlier Factor · Model Testing · Partial Dependence Plots · Ablation Study · Bootstrap Resampling · XGBoost · SHAP · Calibration
 
 # Business Case: 
-The E-commerce churn project classifies potential churners, meaning customers who want to leave the E-commerce website. The aim of the project is to test several machiene learning models and to select the most suitable to classify as many churners as possible. This gives the E-commerce company the possibility to identify potential churners before they leave by offering discount coupons for instance. 
+The E-commerce churn project classifies potential churners, meaning customers who want to leave the E-commerce website. The aim of the project is to test several machine learning models and to select the most suitable to classify as many churners as possible. This gives the E-commerce company the possibility to identify potential churners before they leave by offering discount coupons for instance. 
 
 # Business Recommendation
 Based on the SHAP analysis, two critical features emerged as key drivers for reducing churn: Cashback Amount and Warehouse-to-Home Delivery.
